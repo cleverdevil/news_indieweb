@@ -1,0 +1,19 @@
+.article-plugin-indieweb button {
+    background-size: 100% 100%;
+}
+
+.indieweb-bookmark button {
+    background-image: url('../img/bookmark.png');
+}
+
+.indieweb-repost button {
+    background-image: url('../img/repost.png');
+}
+
+.indieweb-new button {
+    background-image: url('../img/reply.png');
+}
+
+.indieweb-favorite button {
+    background-image: url('../img/like.png');
+}

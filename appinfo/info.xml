@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>news_indieweb</id>
+    <name>Indieweb News Plugin</name>
+    <description>This plugin allows you to publish Indieweb interactions to articles on your Micropub-compatible website.</description>
+    <licence>AGPL</licence>
+    <author>Jonathan LaCour</author>
+    <version>0.0.1</version>
+    <dependencies>
+        <nextcloud min-version="10"/>
+        <owncloud min-version="9.1"/>
+        <php min-version="5.6"/>
+    </dependencies>
+</info>
